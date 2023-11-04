@@ -5,7 +5,7 @@ document.getElementById("execute").onclick = function() {
     nwin.document.open();
     nwin.document.write("<HTML><HEAD>");
     nwin.document.write("<meta name=\"viewport\" content=\"width=device-width\"></meta>");
-    nwin.document.write("<TITLE>画像ウインドウ</TITLE>");
+    nwin.document.write("<TITLE>逕ｻ蜒上え繧､繝ｳ繝峨え</TITLE>");
     nwin.document.writeln("<BODY>");
     nwin.document.write("<img  src=\"img/img.jpg\" width=\"200\" height=\"150\"");
     nwin.document.write("</BODY></HTML>");
