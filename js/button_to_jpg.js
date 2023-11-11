@@ -12,7 +12,7 @@ function buttonClick2(){
 
 
 function buttonClick5(){
-    document.write("<img  src=\"../../jpg/1.jpg\" width=\"200\" height=\"150\">");
+    
     document.write("<input type=\"button\" value=\"戻る\" onclick=\"buttonClick3()\">");
     document.write("<p>無題</p>");
     document.write("<img  src=\"../../jpg/20.jpg\" width=\"200\" height=\"150\">");
