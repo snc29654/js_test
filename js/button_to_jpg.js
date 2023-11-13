@@ -12,14 +12,12 @@ function buttonClick2(){
 
 
 function buttonClick5(){
-    
+    document.write("<a href=\"http://snc29654.php.xdomain.jp/main/sub.php\" target=\"_blank\"><div style=\"font-size:150%\">きゅうゆうくんへのリンク</div></a>");
     document.write("<input type=\"button\" value=\"戻る\" onclick=\"buttonClick3()\">");
     document.write("<p>無題</p>");
     document.write("<img  src=\"../../jpg/20.jpg\" width=\"200\" height=\"150\">");
-    document.write("<input type=\"button\" value=\"戻る\" onclick=\"buttonClick3()\">");
     document.write("<p>無題</p>");
     document.write("<img  src=\"../../jpg/30.jpg\" width=\"200\" height=\"150\">");
-    document.write("<input type=\"button\" value=\"戻る\" onclick=\"buttonClick3()\">");
     document.write("<p>無題</p>");
 }
 
